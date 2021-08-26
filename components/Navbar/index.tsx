@@ -6,7 +6,7 @@ import LightIcon from './LightIcon'
 import styles from './Navbar.module.scss'
 
 const Navbar = () => {
-  const [dark, setDark] = useState(false)
+  const [dark, setDark] = useState(true)
 
   useEffect(() => {
     if (dark) {
@@ -19,7 +19,6 @@ const Navbar = () => {
   })
 
   const changeTheme = () => {
-    localStorage.setItem('darkMode', `${!dark}`)
     setDark(dark => !dark)
   }
 

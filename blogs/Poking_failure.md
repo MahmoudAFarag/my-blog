@@ -1,7 +1,7 @@
 ---
 title: 'Poked By Failure'
 date: '26 August 2021'
-excerpt: 'Success is always desired by any human being. Feeling successful fills your spirit with energy and motivation to grind through the challenges of life, But if you think about the previous sentence, you will come to a conclusion that success was an outcome of an encounter with a challenge...'
+excerpt: 'Success is always desired by any human being. Feeling successful fills your spirit with energy and motivation to grind through the challenges of life, But if you think about the previous sentence...'
 image: '/banners/Failure.jpg'
 isFeatured: true
 ---

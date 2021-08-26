@@ -1,7 +1,7 @@
 ---
 title: "Controlling your passion's seduction"
 date: '17 July 2021'
-excerpt: 'From my modest 21 years of life experience, I found out how precious and easy the first days of life were. Don’t get me wrong I’m not saying that life later will be worse or harder, it’s just going to be filled with more challenges and responsibilities...'
+excerpt: 'From my modest 21 years of life experience, I found out how precious and easy the first days of life were. Don’t get me wrong I’m not saying that life later will be worse or harder...'
 image: '/banners/Your_Passion.jpg'
 isFeatured: true
 ---

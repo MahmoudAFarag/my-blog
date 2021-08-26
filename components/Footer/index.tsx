@@ -17,7 +17,11 @@ const Footer = () => {
       <div className={styles.footer__container}>
         <FaGithub className={styles.footer__container_github} />
         <h1>
-          <a target='_blank' rel='noopener noreferrer' href='https://github.com/MahmoudAshraf25'>
+          <a
+            target='_blank'
+            rel='noopener noreferrer'
+            href='https://github.com/MahmoudAshraf25/my-blog'
+          >
             Github
           </a>
         </h1>
