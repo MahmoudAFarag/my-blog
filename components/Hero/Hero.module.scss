@@ -1,0 +1,20 @@
+.hero {
+  max-width: 70rem;
+  margin: 4.8rem auto;
+  padding: 0 4.8rem;
+
+  &__title {
+    font-size: 4rem;
+    font-weight: var(--title-weight);
+    letter-spacing: -0.6px;
+    color: #000;
+  }
+
+  &__description {
+    font-size: 1.8rem;
+    line-height: 1.6;
+    max-width: 55ch;
+    color: var(--color-paragraph);
+    margin-top: 1.6rem;
+  }
+}
