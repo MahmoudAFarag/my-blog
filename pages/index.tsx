@@ -15,11 +15,11 @@ const Home: NextPage<Props> = ({ blogs }) => {
   return (
     <>
       <Head>
-        <title>El Blog el motawade3 beta3y</title>
-        <meta name='description' content='A simple blog with complex thoughts' />
+        <title>Home | its just a Blog</title>
+        <meta name='description' content='A simple in design, complex in content blog' />
         <meta property='og:url' content='https://justablog.vercel.app/' />
         <meta property='og:type' content='blog' />
-        <meta property='og:title' content="Mahmoud Ashraf's Blog" />
+        <meta property='og:title' content='The drafted 12AM journey - Blog' />
         <meta property='og:description' content='A simple blog with complex thoughts' />
         <meta property='og:image' content='/meta-image.jpg' />
         <link rel='icon' href='/favicon.png' />
