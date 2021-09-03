@@ -15,7 +15,7 @@ const BlogPage: NextPage<{ blog: Blog }> = ({ blog }) => {
         <meta property='og:type' content='blog' />
         <meta property='og:title' content={`Blog | ${blog.title}`} />
         <meta property='og:description' content={blog.excerpt} />
-        <meta property='og:image' content='/meta-image.jpg' />
+        <meta property='og:image' content={blog.image} />
         <link rel='icon' href='/favicon.png' />
       </Head>
 
