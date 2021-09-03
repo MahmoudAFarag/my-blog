@@ -6,8 +6,7 @@ image: '/banners/Fear.jpg'
 isFeatured: true
 ---
 
-A few days ago, I sat down at night when I usually finish my work and try to discuss and organize my ideas, yes I'm a night owl. A thought came into my mind which occupied that whole night. A thought that made me look back at some of my plans and ideas and how they were processed.
-When I analyzed the progress of these plans, I concluded that 80% of my actions and plans were shelved and yes 80% is not a typo. But why were they shelved? Is it because of procrastination?. No, it was because of fear. So, let us talk about fear.
+A few days ago, I sat down at night when I usually finish my work and try to discuss and organize my ideas, yes I'm a night owl. A thought came into my mind which occupied that whole night. A thought that made me look back at some of my plans and ideas and how they were processed. When I analyzed the progress of these plans, I concluded that 80% of my actions and plans were shelved and yes 80% is not a typo. But why were they shelved? Is it because of procrastination?. No, it was because of fear. So, let us talk about fear.
 
 When the word "fear" is uttered out, people programmatically assume that it is something bad. Something that hunts you down on every action and thought that pops into your head. It is even widely used as the standard answer for the "What is your worst concern in life" question. To be honest, I won't disagree that fear can be a bad thing and something that we always place on the unpleasant spectrum, but what we always miss is that fear can also be a good thing. To further explain my point let us first see how science defines fear:
 
@@ -39,7 +38,7 @@ We usually fixate our mind on a single plan and try to implement it no matter wh
 
 # The Verdict
 
-These are just some of the tips that can hopefully help you control your fear. As much as fear made me suppress many of my thoughts, it later made me approach life differently. Remember that you are the judge of yourself and base your judgment on your past self, not on someone else. Go after your ideas and don't let the fear of judgment pull you back. You are capable of way more than you think and time will prove this to you. Always want the best for yourself and reject any change that will stress you out. Speak out about your fears instead of giving them a house inside of you. Direct your fear towards your well-being and make it the reason you get out of the comfort zone and unleash your potential. Thank you for making it till here as this was a long one and let me wish you a life with no stress and endless accomplishments!.
+These are just some of the tips that can hopefully help you control your fear. As much as fear made me suppress many of my thoughts, it later made me approach life differently. Remember that you are the judge of yourself and base your judgment on your past self, not on someone else. Go after your ideas and don't let the fear of judgment pull you back. You are capable of way more than you think and time will prove this to you. Always want the best for yourself and reject any change that will stress you out. Speak out about your fears instead of giving them a house inside of you. Direct your fear towards your well-being and make it the reason you get out of the comfort zone and unleash your potential. Thank you for making it till here as this was a long one and let me wish you to always have the courage to control and face your fears instead of supressing them!.
 
 
 
