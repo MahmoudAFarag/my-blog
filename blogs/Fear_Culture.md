@@ -1,7 +1,7 @@
 ---
 title: 'The Culture of Fear'
 date: '2 September 2021'
-excerpt: 'At some point in our lives we start experiencing a feeling that makes us doubt our thoughts. This feeling leaves us agitated and disordered in a sea full of thoughts and plans.'
+excerpt: 'A few days ago, I sat down at night when I usually finish my work and try to discuss and organize my ideas, yes I'm a night owl. A thought came into my mind which occupied that whole night.'
 image: '/banners/Fear.jpg'
 isFeatured: true
 ---
