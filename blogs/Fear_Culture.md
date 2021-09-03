@@ -1,7 +1,7 @@
 ---
 title: 'The Culture of Fear'
 date: '2 September 2021'
-excerpt: 'A few days ago, I sat down at night when I usually finish my work and try to discuss and organize my ideas, yes I'm a night owl. A thought came into my mind which occupied that whole night.'
+excerpt: "A few days ago, I sat down at night when I usually finish my work and try to discuss and organize my ideas, yes I'm a night owl. A thought came into my mind which occupied that whole night."
 image: '/banners/Fear.jpg'
 isFeatured: true
 ---
