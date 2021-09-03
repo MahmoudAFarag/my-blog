@@ -6,28 +6,28 @@ import LightIcon from './LightIcon'
 import styles from './Navbar.module.scss'
 
 const Navbar = () => {
-  const [dark, setDark] = useState(true)
+  const [light, setLight] = useState(false)
 
   useEffect(() => {
-    if (dark) {
-      document.querySelector('body')?.classList.add('dark-mode')
+    if (light) {
+      document.querySelector('body')?.classList.add('light-mode')
       document.querySelectorAll('h1').forEach(tag => tag.classList?.add('white-text'))
     } else {
-      document.querySelector('body')?.classList.remove('dark-mode')
+      document.querySelector('body')?.classList.remove('light-mode')
       document.querySelectorAll('h1').forEach(tag => tag.classList?.remove('white-text'))
     }
   })
 
   const changeTheme = () => {
-    setDark(dark => !dark)
+    setLight(light => !light)
   }
 
   return (
     <div className={styles.navbar}>
-      {dark ? (
-        <LightIcon style={styles.navbar__icon} onClick={changeTheme} />
-      ) : (
+      {light ? (
         <DarkIcon style={styles.navbar__icon} onClick={changeTheme} />
+      ) : (
+        <LightIcon style={styles.navbar__icon} onClick={changeTheme} />
       )}
 
       <div>

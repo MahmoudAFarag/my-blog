@@ -9,7 +9,7 @@ interface Props {
 const Featured = ({ blogs }: Props) => {
   return (
     <div className={styles.featured}>
-      <h1 className={styles.featured__header}>Featured Blogs</h1>
+      <h1 className={styles.featured__header}>Recent Blogs</h1>
       {blogs.map(blog => (
         <FeaturedBlog key={blog.title} title={blog.title} excerpt={blog.excerpt} slug={blog.slug} />
       ))}
