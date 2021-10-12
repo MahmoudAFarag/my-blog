@@ -1,9 +1,9 @@
 ---
 title: "Controlling your passion's seduction"
-date: '17 July 2021'
+date: '2021-07-17'
 excerpt: 'From my modest 21 years of life experience, I found out how precious and easy the first days of life were. Don’t get me wrong I’m not saying that life later will be worse or harder...'
 image: '/banners/Your_Passion.jpg'
-isFeatured: true
+isFeatured: false
 ---
 
 After 9 months, 40 weeks, and 274 days, you are introduced to the beautiful, endless world of oceans bumbling over white rocks, and people rushing to their goals and dreams. You start by experiencing the bright side of the world where stress and thinking don’t exist. A side where your goal is to have fun and seek your happiness from the slightest gestures and visuals presented to you.

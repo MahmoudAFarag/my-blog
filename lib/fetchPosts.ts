@@ -8,13 +8,15 @@ const blogsDirectory = path.join(process.cwd(), 'blogs')
 export function getAllBlogs() {
   const allBlogFiles = fs.readdirSync(blogsDirectory)
 
-  return allBlogFiles.map(blogFile => getBlogData(blogFile))
+  const allBlogs = allBlogFiles.map((blogFile) => getBlogData(blogFile))
+
+  return allBlogs.sort((postA, postB) => (postA.date > postB.date ? -1 : 1))
 }
 
 export function getBlogsSlug() {
   const allFeaturedBlogs = fs.readdirSync(blogsDirectory)
 
-  return allFeaturedBlogs.map(blog => blog.replace(/\.[^/.]+$/, ''))
+  return allFeaturedBlogs.map((blog) => blog.replace(/\.[^/.]+$/, ''))
 }
 
 export function getBlogData(filename: string) {
@@ -22,7 +24,8 @@ export function getBlogData(filename: string) {
   const fileContent = fs.readFileSync(filePath, 'utf-8')
   const { data, content } = matter(fileContent)
   const blogSlug = getBlogsSlug().find(
-    blog => blog.toLowerCase() == filename.replace(/\.[^/.]+$/, '').toLowerCase()
+    (blog) =>
+      blog.toLowerCase() == filename.replace(/\.[^/.]+$/, '').toLowerCase()
   )
 
   return {
@@ -39,5 +42,5 @@ export function getBlogData(filename: string) {
 export function getFeaturedBlogs() {
   const allBlogs = getAllBlogs()
 
-  return allBlogs.filter(blog => blog.isFeatured === true)
+  return allBlogs.filter((blog) => blog.isFeatured === true)
 }

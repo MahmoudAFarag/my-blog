@@ -1,7 +1,26 @@
-const AllBlogsPage = () => {
+import type { NextPage, GetStaticProps } from 'next'
+import AllBlogs from '../components/AllBlogs'
+import { Blog } from '../types/blog-types'
+import { getAllBlogs } from '../lib/fetchPosts'
+
+interface Props {
+  blogs: Blog[]
+}
+
+export const getStaticProps: GetStaticProps = async (context) => {
+  const allBlogs = getAllBlogs()
+
+  return {
+    props: {
+      blogs: allBlogs,
+    },
+  }
+}
+
+const AllBlogsPage: NextPage<Props> = ({ blogs }) => {
   return (
-    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-      <h1>Lessa shwaya ta3ala kaman kam youm</h1>
+    <div>
+      <AllBlogs blogs={blogs} />
     </div>
   )
 }

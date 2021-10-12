@@ -1,9 +1,9 @@
 ---
 title: 'Poked By Failure'
-date: '26 August 2021'
+date: '2021-08-20'
 excerpt: 'Success is always desired by any human being. Feeling successful fills your spirit with energy and motivation to grind through the challenges of life, But if you think about the previous sentence...'
 image: '/banners/Failure.jpg'
-isFeatured: true
+isFeatured: false
 ---
 
 Success is always desired by any human being. Feeling successful fills your spirit with energy and motivation to grind through the challenges of life, But if you think about the previous sentence, you will come to a conclusion that success was an outcome of an encounter with a challenge. In other words, without the presence of obstacles and challenges success will not exist. Why will you try and give all your energy to something obtained easily? As the saying goes: “The sweetest victory is the one that’s most difficult”.

@@ -1,6 +1,6 @@
 ---
 title: 'The Culture of Fear'
-date: '2 September 2021'
+date: '2021-09-02'
 excerpt: "A few days ago, I sat down at night when I usually finish my work and try to discuss and organize my ideas, yes I'm a night owl. A thought came into my mind which occupied that whole night."
 image: '/banners/Fear.jpg'
 isFeatured: true
@@ -12,9 +12,9 @@ When the word "fear" is uttered out, people programmatically assume that it is s
 
 " Fear is one of the most basic human emotions. It is programmed into the nervous system and works like an instinct. From the time we're infants, we are equipped with the survival instincts necessary to respond with fear when we sense danger or feel unsafe. When we sense danger, the brain reacts instantly, sending signals that activate the nervous system. This causes physical responses, such as a faster heartbeat, rapid breathing, and an increase in blood pressure. "
 
-So wait, from my experience fear was a bad thing that prevented me from accomplishing most of my plans, but when we look at how science defined fear it looks like a natural response that helps us react to different situations. This split in meaning made me try to approach fear in a different way. If you are like me, I believe that every thing exists for a reason especially if it is something natural. 
+So wait, from my experience fear was a bad thing that prevented me from accomplishing most of my plans, but when we look at how science defined fear it looks like a natural response that helps us react to different situations. This split in meaning made me try to approach fear in a different way. If you are like me, I believe that every thing exists for a reason especially if it is something natural.
 
-After trying to find out why fear exists as a natural response, I concluded that it is a double-edged sword and the trick is to know how to control and utilize it in both directions instead of letting it control you in one direction. Fear can be the reason to push you away from something that would have caused harm to you or it can push you towards something dark and harmful. I remember someone once approached me and told me about how his workplace was toxic and how his boss was always abusing his powers on him. 
+After trying to find out why fear exists as a natural response, I concluded that it is a double-edged sword and the trick is to know how to control and utilize it in both directions instead of letting it control you in one direction. Fear can be the reason to push you away from something that would have caused harm to you or it can push you towards something dark and harmful. I remember someone once approached me and told me about how his workplace was toxic and how his boss was always abusing his powers on him.
 
 Here, fear can play 2 roles according to how this person utilizes it. On one hand, fear of confronting his boss can take over him and force him to stay quiet and work under pressure that can later do irreversible damage. On the other hand, he can direct the fear towards his well-being and use it as a force to fuel up the confrontation between him and his boss and end up this toxic part of his life. Spoiler: He was brave enough to be able to use it to end this toxic part.
 
@@ -39,7 +39,3 @@ We usually fixate our mind on a single plan and try to implement it no matter wh
 # The Verdict
 
 These are just some of the tips that can hopefully help you control your fear. As much as fear made me suppress many of my thoughts, it later made me approach life differently. Remember that you are the judge of yourself and base your judgment on your past self, not on someone else. Go after your ideas and don't let the fear of judgment pull you back. You are capable of way more than you think and time will prove this to you. Always want the best for yourself and reject any change that will stress you out. Speak out about your fears instead of giving them a house inside of you. Direct your fear towards your well-being and make it the reason you get out of the comfort zone and unleash your potential. Thank you for making it till here as this was a long one and let me wish you to always have the courage to control and face your fears instead of supressing them!.
-
-
-
-

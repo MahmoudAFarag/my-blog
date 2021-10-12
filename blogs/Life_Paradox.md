@@ -1,6 +1,6 @@
 ---
 title: 'The Paradox of Life'
-date: '20 August 2021'
+date: '2021-08-26'
 excerpt: 'Torn between acting from a spontaneous perspective and acting according to knowledge and mind-readings. Is it just a reality or is it an equation to be cracked? When I split my thoughts about life into equations..'
 image: '/banners/Paradox.jpg'
 isFeatured: true
