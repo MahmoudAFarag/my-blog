@@ -1,6 +1,6 @@
 ---
 title: 'A Flameless Flame'
-date: '2021-10-24'
+date: '2021-10-12'
 excerpt: "How am I feeling? Thanks for asking! To be honest, I'm having a rather weird feeling. I feel tired and exhausted but not physically, I'm tired mentally."
 image: '/banners/Burnout.jpg'
 isFeatured: true
