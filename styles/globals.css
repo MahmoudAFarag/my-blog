@@ -27,7 +27,7 @@ html {
 }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   line-height: 1;
   color: #fff;
@@ -39,4 +39,8 @@ body {
 .light-mode {
   color: #000 !important;
   background-color: #fff;
+}
+
+hr {
+  margin-top: 2rem;
 }
